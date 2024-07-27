@@ -8519,39 +8519,6 @@
             ],
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/gaps.webp"
         },
-        "garrysmod": {
-            "app_readme": "<p>This Chart will download and install SteamCMD. It will also install Garry's Mod and run it.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/garrysmod\">https://truecharts.org/charts/stable/garrysmod</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
-            "categories": [
-                "GameServers"
-            ],
-            "description": "This Chart will download and install SteamCMD. It will also install Garry's Mod and run it.",
-            "healthy": true,
-            "healthy_error": null,
-            "home": "https://truecharts.org/charts/stable/garrysmod",
-            "location": "/home/runner/_work/catalog/catalog/stable/garrysmod",
-            "latest_version": "6.0.8",
-            "latest_app_version": "garrysmod",
-            "latest_human_version": "garrysmod_6.0.8",
-            "last_update": "2024-05-29 12:35:14",
-            "name": "garrysmod",
-            "recommended": false,
-            "title": "Garrysmod",
-            "maintainers": [
-                {
-                    "name": "TrueCharts",
-                    "email": "info@truecharts.org",
-                    "url": "https://truecharts.org"
-                }
-            ],
-            "tags": [],
-            "screenshots": [],
-            "sources": [
-                "https://github.com/truecharts/charts/tree/master/charts/stable/garrysmod",
-                "https://hub.docker.com/r/ich777/steamcmd",
-                "https://www.steampowered.com/"
-            ],
-            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/garrysmod.webp"
-        },
         "gaseous-server": {
             "app_readme": "<p>A game ROM manager using multiple sources to identify and provide metadata.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/gaseous-server\">https://truecharts.org/charts/stable/gaseous-server</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
             "categories": [
