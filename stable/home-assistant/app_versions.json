@@ -12,7 +12,7 @@
             "definitions/certificate",
             "definitions/interface"
         ],
-        "human_version": "2024.5.5_25.1.8",
+        "human_version": "2024.7.3_26.3.0",
         "version": "26.3.0",
         "chart_metadata": {
             "annotations": {
